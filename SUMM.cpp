@@ -6,10 +6,18 @@ int main() {
 	int t;
 	cin>>t;
 	while(t--){
-	    int x , y , z;
-	    cin>>x>>y>>z;
-	    int total = 4 * x + 2 * y ;
-	    cout<<total<<endl;
+	    int a ,b ,c;
+	    cin>>a>>b>>c;
+	    int sum = a + b;
+	    if(sum == c){
+	        cout<<"YES"<<endl;
+	        
+	    }
+	    else{
+	        cout<<"NO"<<endl;
+	    }
+	    
+	    
 	}
 	return 0;
 }
