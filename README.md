@@ -15,13 +15,13 @@
     <th>Rating</th>
   </tr>
   <tr>
-    <th>START01</th>
+    <th><a href="https://github.com/hanshal101/CodeChef-Solutions/blob/main/START01.cpp">START01</a></th>
     <td>DONE</td>
     <td>Easy</td>
     <td>200</td>
   </tr>
   <tr>
-    <th>FLOW001</th>
+    <th><a href="https://github.com/hanshal101/CodeChef-Solutions/blob/main/FLOW001.cpp">FLOW001</a></th>
     <td>DONE</td>
     <td>Easy</td>
     <td>242</td>
