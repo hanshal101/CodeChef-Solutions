@@ -272,4 +272,16 @@
     <td>Easy</td>
     <td>500</td>
   </tr>
+  <tr>
+    <th><a href="https://github.com/hanshal101/CodeChef-Solutions/blob/main/WATERCOOLER1.cpp">WATERCOOLER1</a></th>
+    <td>DONE</td>
+    <td>Easy</td>
+    <td>506</td>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/hanshal101/CodeChef-Solutions/blob/main/JASSIGNMENTS.cpp">JASSIGNMENTS</a></th>
+    <td>DONE</td>
+    <td>Easy</td>
+    <td>513</td>
+  </tr>
 </table>
