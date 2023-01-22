@@ -10,7 +10,7 @@
 <table>
   <tr>
     <th>Problems</th>
-    <th>Condition</th>
+    <th>Status</th>
     <th>Difficulty</th>
     <th>Rating</th>
   </tr>
