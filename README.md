@@ -284,4 +284,22 @@
     <td>Easy</td>
     <td>513</td>
   </tr>
+  <tr>
+    <th><a href="https://github.com/hanshal101/CodeChef-Solutions/blob/main/SHOPCHANGE.cpp">SHOPCHANGE</a></th>
+    <td>DONE</td>
+    <td>Easy</td>
+    <td>526</td>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/hanshal101/CodeChef-Solutions/blob/main/JCOINS.cpp">JCOINS</a></th>
+    <td>DONE</td>
+    <td>Easy</td>
+    <td>527</td>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/hanshal101/CodeChef-Solutions/blob/main/OFFICE.cpp">OFFICE</a></th>
+    <td>DONE</td>
+    <td>Easy</td>
+    <td>532</td>
+  </tr>
 </table>
