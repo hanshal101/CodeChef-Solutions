@@ -302,4 +302,16 @@
     <td>Easy</td>
     <td>532</td>
   </tr>
+  <tr>
+    <th><a href="https://github.com/hanshal101/CodeChef-Solutions/blob/main/CREDCOINS.cpp">CREDCOINS</a></th>
+    <td>DONE</td>
+    <td>Easy</td>
+    <td>539</td>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/hanshal101/CodeChef-Solutions/blob/main/SALESEASON.cpp">SALESEASON</a></th>
+    <td>DONE</td>
+    <td>Easy</td>
+    <td>541</td>
+  </tr>
 </table>
